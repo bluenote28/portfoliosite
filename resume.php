@@ -34,7 +34,7 @@
       <h4>PROFESSIONAL EXPERIENCE</h4>
       <hr />
 
-      <div class="mb-5">
+      <div class="mb-4">
         <div>
           <h5>Amazon Application Development Special Interest Group Member</h5>
           <p class="mb-0">Amazon | Monee, IL | January 2023 - Current</p>
@@ -48,7 +48,7 @@
 
       <h4>EDUCATION</h4>
       <hr />
-      <div class="mb-5">
+      <div class="mb-4">
         <div class="mb-3">
           <h5>Western Governors University</h5>
           <p class="mb-0">Bachelor of Science in Software Engineering | Salt Lake City, UT | March 2023 - November 2025</p>
@@ -59,13 +59,20 @@
         </div>
     </div>
 
-     <h4>Skills</h4>
+     <h4>SKILLS</h4>
      <hr />
       <ul>
         <li>Programming Languages: Python, JavaScript, PHP, SQL</li>
         <li>Frameworks and Libraries: React, Flask, Django</li>
         <li>Tools and Platforms: AWS, Git, Docker</li>
         <li>Soft Skills: Problem-solving, Communication, Teamwork</li>
+      </ul>
+
+      <h4>CERTIFICATIONS</h4>
+      <hr />
+      <ul>
+        <li>AWS Certified Cloud Practitioner</li>
+        <li>Comptia Project+</li>
       </ul>
 
   </body>
