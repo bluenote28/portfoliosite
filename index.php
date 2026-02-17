@@ -4,9 +4,11 @@
   <body>
     <?php include 'htmlComponents/header.php'; ?>
 
-    <div class="container-fluid d-flex justify-content-center align-items-top" style='background-color: #243444; height: 50px;'>
-      <p style='color: #ffffff'>Thank you for visiting my site and considering me for a position with your organization.</p>
+    <div class="home-page-intro-container">
+      <h1 style="text-align: center;">Welcome to my portfolio website!</h1>
+      <p>My name is Anthony Cowden and I am currently looking for a software developer position in either the Chicago or St. Louis area.</p>
+      <div class="d-flex justify-content-center gap-3"><a class='btn btn-primary' href='projects.php' role='button'>Projects</a>
+          <a class='btn btn-secondary' href='resume.php' role='button'>Resume</a></div>
     </div>
-
   </body>
 </html>
