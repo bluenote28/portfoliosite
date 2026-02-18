@@ -15,14 +15,7 @@ const PROJECTS = array(
         "https://charityshopusa.com",
         "https://github.com/bluenote28/CharityShopFrontEnd", "images/charityshop.png"),
 
-    new Project(
-        "Bible Catholic",
-        "This was created to create a site where biblical data for the catholic church can be easily found.",
-        "HTML, CSS, Python, Flask",
-        "https://www.biblecatholic.net/",
-        "https://github.com/bluenote28/biblecatholic", "images/biblecatholic.png"),
-
-    new Project(
+        new Project(
         "Accomplishment Tracker",
         "This is a site where Amazon employees can track their work accomplishments and easily share them with their manager.
         This was made in response to an issue I experienced at Amazon where I had three different managers within a short time periord. Each manager had no idea of my past work. 
@@ -32,6 +25,13 @@ const PROJECTS = array(
         null,
         null,
         null),
+
+    new Project(
+        "Bible Catholic",
+        "This was created to create a site where biblical data for the catholic church can be easily found.",
+        "HTML, CSS, Python, Flask",
+        "https://www.biblecatholic.net/",
+        "https://github.com/bluenote28/biblecatholic", "images/biblecatholic.png"),
 
     new Project(
         "Toolshed",
