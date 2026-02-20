@@ -15,7 +15,14 @@ const PROJECTS = array(
         "https://charityshopusa.com",
         "https://github.com/bluenote28/CharityShopFrontEnd", "images/charityshop.png"),
 
-        new Project(
+     new Project(
+        "AI Interview Bot",
+        "This is an AI-powered interview preparation tool that simulates real interviews. I wanted a tool to help me prepare for interviews, but I couldn't find one that met my needs, so I decided to create my own.",
+        "HTML, CSS, Python, Flask, AI, Gemini API",
+        "https://aiinterviewsimulator-c44325af8bef.herokuapp.com/",
+        "https://github.com/bluenote28/AI_Interviewer", "images/aiinterview.png"),
+
+    new Project(
         "Accomplishment Tracker",
         "This is a site where Amazon employees can track their work accomplishments and easily share them with their manager.
         This was made in response to an issue I experienced at Amazon where I had three different managers within a short time periord. Each manager had no idea of my past work. 
