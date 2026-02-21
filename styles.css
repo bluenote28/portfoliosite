@@ -13,6 +13,7 @@
 .project-container p {
     font-size: 25px;
     text-align: center;
+    width: 50%;
 }
 
 .project-image {
