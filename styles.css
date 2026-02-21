@@ -1,11 +1,11 @@
 .project-container{
-    height: 800px;
+    height: auto;
     background-color: #f7f7f7;
     padding-top: 10px;
     display: flex;
     flex-direction: column;
     align-items: center;
-    justify-content: center;
+    border: 1px;
     border-style: outset;
     margin-bottom: 30px;
 }
@@ -17,10 +17,13 @@
 }
 
 .project-image {
-    width: 400px;
-    height: 400px;
+    width: 100%;
+    height: auto;
     object-fit: cover;
-    margin-top: 15px;
+    padding-left: 500px;
+    padding-right: 500px;
+    margin-top: 10px;
+    margin-bottom: 20px;
 }
 
 .nav-link {
